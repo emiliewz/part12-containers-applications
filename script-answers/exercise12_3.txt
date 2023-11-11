@@ -47,4 +47,28 @@ update-alternatives: warning: skip creation of /usr/share/man/man1/pico.1.gz bec
 [?2004h]0;root@82254c6a494b: /root@82254c6a494b:/# nano /usr/src/app/index.js
 [?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;38H(B[0;7m[ Reading... ](B[m[39;37H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 6.2 [21b/usr/src/app/index.js [29b [1;87H(B[m[40d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[40;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location[41d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;59H(B[0;7m*[87G(B[m[?12l[?25h[2dc[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25hs[?25l[?12l[?25ho[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hg[?25l[?12l[?25h([?25l[?12l[?25h'[?25l[?12l[?25hH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25h[42m [49m(B[m[?25l[39d[K[?12l[?25h[2;19H W[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25hl[?25l[?12l[?25hd[?25l[?12l[?25h[2;13H(B[0;1m[35m'Hello World'[39m(B[m[?25l[?12l[?25h)[?25l[39d(B[0;7mSave modified buffer? [65b [40;1H Y(B[m Yes[K[41d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[39;23H[?12l[?25h[?25l[40d(B[0;7m^G(B[m Help[40;23H(B[0;7mM-D(B[m DOS Format[40;45H(B[0;7mM-A(B[m Append[40;67H(B[0;7mM-B(B[m Backup File[41d(B[0;7m^C(B[m Cancel[17G      (B[0;7mM-M(B[m Mac Format[41;45H(B[0;7mM-P(B[m Prepend[41;67H(B[0;7m^T(B[m Browse[39d(B[0;7mFile Name to Write: /usr/src/app/index.js(B[m[?12l[?25h[?25l[37G[1K (B[0;7m[ Writing... ](B[m[K[1;59H(B[0;7m [87G(B[m[39;37H(B[0;7m[ Wrote 1 line ](B[m[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;root@82254c6a494b: /root@82254c6a494b:/# [Kexit
 [?2004lexit
-[1m[7m%[27m[1m[0m                                                                                        ]7;file://emilie.local/Users/emiliezhang/%7B%7D/fso/part12[0m[27m[24m[Jemiliezhang@emilie part12 % [K[?2004heexit  e  llsl  rrm typescript[1m [0m[0m ./script-answers[1m/[0m[0m/[7mexercise12_3.txt[27m
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://emilie.local/Users/emiliezhang/%7B%7D/fso/part12[0m[27m[24m[Jemiliezhang@emilie part12 % [K[?2004heexit  e  llsl  rrm typescript[1m [0m[0m ./script-answers[1m/[0m[0m/[7mexercise12_3.txt[27m[16D[27me[27mx[27me[27mr[27mc[27mi[27ms[27me[27m1[27m2[27m_[27m3[27m.[27mt[27mx[27mtr[P[45C [46D[P[45C [46Dm typescript ./script-answers/exercise12_3.txt[45Dmv typescript ./script-answers/exercise12_3.txt[45D[?2004l
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://emilie.local/Users/emiliezhang/%7B%7D/fso/part12[0m[27m[24m[Jemiliezhang@emilie part12 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://emilie.local/Users/emiliezhang/%7B%7D/fso/part12[0m[27m[24m[Jemiliezhang@emilie part12 % [K[?2004hggit commit -m '[7mUbuntu 101[27m[10D[27mU[27mb[27mu[27mn[27mt[27mu[27m [27m1[27m0[27m1'[?2004l
+[main ae1380a] Ubuntu 101
+ 2 files changed, 50 insertions(+), 15 deletions(-)
+ create mode 100644 script-answers/exercise12_3.txt
+ delete mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://emilie.local/Users/emiliezhang/%7B%7D/fso/part12[0m[27m[24m[Jemiliezhang@emilie part12 % [K[?2004hggit push[?2004l
+Enumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 3.15 KiB | 3.15 MiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/emiliewz/part12-containers-applications.git
+   676a40e..ae1380a  main -> main
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://emilie.local/Users/emiliezhang/%7B%7D/fso/part12[0m[27m[24m[Jemiliezhang@emilie part12 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Fri Nov 10 18:25:31 2023
